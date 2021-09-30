@@ -22,3 +22,6 @@ DBserver는 115.23.235.135(학교 DB server)의 mariadb를 이용 - Shell 제목
     - <https://sgpassion.tistory.com/552>
     - APK 베포 시 DB 정보를 포함하여 저장 후 제공
     - 업데이트 마다 온라인의 DB 를 변환하여 수정 후 제공
+## 패키지 
+- 패키지를 추가하면 다른 분야도 사전으로 만들 수 있다 . 
+- EX - android 함수들을 사전으로? -> db만 추가 요청하면 가능
