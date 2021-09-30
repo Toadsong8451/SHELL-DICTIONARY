@@ -19,6 +19,6 @@ DBserver는 115.23.235.135(학교 DB server)의 mariadb를 이용 - Shell 제목
 - 온라인
     - 115.23.235.135에 접속하여 검색 진행
 - 오프라인
-    - <https://sgpassion.tistory.com/552/>
+    - <https://sgpassion.tistory.com/552>
     - APK 베포 시 DB 정보를 포함하여 저장 후 제공
     - 업데이트 마다 온라인의 DB 를 변환하여 수정 후 제공
